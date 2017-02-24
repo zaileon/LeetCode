@@ -1,0 +1,20 @@
+167		Two Sum II - Input array is sorted
+374		Guess Number Higher or Lower
+4		Median of Two Sorted Arrays
+69		Sqrt(x)
+50		Pow(x, n)
+367		Valid Perfect Square
+278		First Bad Version
+34		Search for a Range
+35		Search Insert Position
+33		Search in Rotated Sorted Array
+81		Search in Rotated Sorted Array II
+34		Search for a Range
+74		Search a 2D Matrix
+240		Search a 2D Matrix II
+153		Find Minimum in Rotated Sorted Array
+154		Find Minimum in Rotated Sorted Array II
+475		Heaters
+162		Find Peak Element
+287		Find the Duplicate Number
+302		Smallest Rectangle Enclosing Black Pixels

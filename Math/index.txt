@@ -1,0 +1,42 @@
+263		Ugly Number  (264		Ugly Number II)
+258		Add Digits
+413		Arithmetic Slices
+9		Palindrome Number
+396		Rotate Function
+469		Convex Polygon
+453		Minimum Moves to Equal Array Elements
+462		Minimum Moves to Equal Array Elements II
+296		Best Meeting Point
+172		Factorial Trailing Zeroes
+168		Excel Sheet Column Title
+171		Excel Sheet Column Number
+400		Nth Digit
+319		Bulb Switcher
+41		First Missing Positive
+43		Multiply Strings
+36		Valid Sudoku
+246		Strobogrammatic Number
+247		Strobogrammatic Number II
+248		Strobogrammatic Number III
+441		Arranging Coins
+423		Reconstruct Original Digits from English
+223		Rectangle Area
+233		Number of Digit One
+204		Count Primes
+365		Water and Jug Problem
+89		Gray Code
+483		Smallest Good Base
+335		Self Crossing
+372		Super Pow
+492		Construct the Rectangle
+440		K-th Smallest in Lexicographical Order
+504		Base 7
+412		Fizz Buzz
+384		Shuffle an Array
+390		Elimination Game
+398		Random Pick Index
+405		Convert a Number to Hexadecimal
+13		Roman to Integer
+12		Integer to Roman
+273		Integer to English Words
+65		Valid Number

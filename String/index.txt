@@ -1,0 +1,37 @@
+14		Longest Common Prefix
+344		Reverse String
+5		Longest Palindromic Substring
+6		ZigZag Conversion
+151		Reverse Words in a String
+186		Reverse Words in a String II
+38		Count and Say
+17		Letter Combinations of a Phone Number
+49		Group Anagrams
+8		String to Integer (atoi)
+383		Ransom Note
+345		Reverse Vowels of a String
+336		Palindrome Pairs
+28		Implement strStr()
+214		Shortest Palindrome
+125		Valid Palindrome
+43		Multiply Strings
+58		Length of Last Word
+208		Implement Trie (Prefix Tree)
+157		Read N Characters Given Read4
+158		Read N Characters Given Read4 II - Call multiple times
+161		One Edit Distance
+165		Compare Version Numbers
+434		Number of Segments in a String
+468		Validate IP Address
+459		Repeated Substring Pattern
+482		License Key Formatting
+481		Magical String
+271		Encode and Decode Strings
+488		Zuma Game
+301		Remove Invalid Parentheses
+500		Keyboard Row
+520		Detect Capital
+422		Valid Word Square
+408		Valid Word Abbreviation
+420		Strong Password Checker
+68		Text Justification

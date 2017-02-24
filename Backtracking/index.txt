@@ -1,0 +1,27 @@
+131		Palindrome Partitioning
+77		Combinations
+39		Combination Sum
+40		Combination Sum II
+216		Combination Sum III  (377 - Combination Sum IV in Dynamic Programming)
+46		Permutations
+47		Permutations II
+267		Palindrome Permutation II
+37		Sudoku Solver
+51		N-Queens
+52		N-Queens II
+60		Permutation Sequence
+79		Word Search
+212		Word Search II
+93		Restore IP Addresses
+78		Subsets
+90		Subsets II
+282		Expression Add Operators
+254		Factor Combinations
+320		Generalized Abbreviation
+411		Minimum Unique Word Abbreviation
+491		Increasing Subsequences
+291		Word Pattern II
+306		Additive Number
+526		Beautiful Arrangement
+401		Binary Watch
+425		Word Squares

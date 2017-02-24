@@ -1,0 +1,36 @@
+1		Two Sum
+170		Two Sum III - Data structure design
+325		Maximum Size Subarray Sum Equals k
+244		Shortest Word Distance II
+217		Contains Duplicate
+219		Contains Duplicate II
+220		Contains Duplicate III
+202		Happy Number
+128		Longest Consecutive Sequence
+266		Palindrome Permutation
+242		Valid Anagram
+409		Longest Palindrome
+451		Sort Characters By Frequency
+463		Island Perimeter
+349		Intersection of Two Arrays
+350		Intersection of Two Arrays II
+380		Insert Delete GetRandom O(1)
+381		Insert Delete GetRandom O(1) - Duplicates allowed
+352		Data Stream as Disjoint Intervals
+436		Find Right Interval
+399		Evaluate Division
+146		LRU Cache
+432		All O`one Data Structure
+460		LFU Cache
+149		Max Points on a Line
+249		Group Shifted Strings
+205		Isomorphic Strings
+166		Fraction to Recurring Decimal
+387		First Unique Character in a String
+356		Line Reflection
+290		Word Pattern
+299		Bulls and Cows
+311		Sparse Matrix Multiplication
+508		Most Frequent Subtree Sum
+525		Contiguous Array
+454		4Sum II
